@@ -12,4 +12,4 @@ A ideia central era criar uma experiência interativa onde o usuário precisa aj
 - **Xcode**: também meu primeiro contato com o ambiente de desenvolvimento integrado (IDE) da Apple.
 
 ## 👥 Equipe
-Este projeto foi feito com a colaboração de: Gabriel Gardini e Gabriella Tomoda.
+Este projeto foi feito com a colaboração de: **Gabriel Gardini** e **Gabriella Tomoda**.
